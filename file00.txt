@@ -1,1 +1,2 @@
 file for practicing git
+diff 0
