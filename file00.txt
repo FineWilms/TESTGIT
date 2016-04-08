@@ -1,2 +1,3 @@
 file for practicing git
 diff 0
+im adding some kind of experimental code
